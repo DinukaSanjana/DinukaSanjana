@@ -7,7 +7,7 @@
 
 ---
 
-**B.ET (Hons) Electrotechnology** student with **10+ production-grade DevOps projects**.
+**B.ET (Hons) Electrotechnology** student.
 Automated CI/CD pipelines → **96% faster deploys**
 Scaled EKS clusters → **99.9% uptime**
 Cut infra costs → **50% savings**
