@@ -8,11 +8,12 @@
 ---
 
 **B.ET (Hons) Electrotechnology** student.
+
 Automated CI/CD pipelines → **96% faster deploys**
 Scaled EKS clusters
 
 **Tech Stack:** AWS (EKS, VPC, Beanstalk), Docker, Kubernetes, Terraform, Ansible, Jenkins, Python (boto3)
 
-**9 Certifications:**Docker MasterClass, Linux Pro, GitOps, YAML/JSONPath (Udemy)
+**Certifications:**Docker MasterClass, Linux Pro, GitOps, YAML/JSONPath (Udemy)
 
 **Open to DevOps Internships** — Let’s build scalable systems together! 🚀
