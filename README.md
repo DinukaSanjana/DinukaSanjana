@@ -1,5 +1,4 @@
-# DinukaSanjana
-## Dinuka Sanjana Madhumal
+# Dinuka Sanjana Madhumal
 **DevOps Engineer**
 *No:435, B2 Waththa Road, Thalagala, Sri Lanka*
 📞 [+94 718 840 921](tel:+94718840921) | ✉️ [dadallagemadhumal@gmail.com](mailto:dadallagemadhumal@gmail.com)
